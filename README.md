@@ -1,2 +1,2 @@
 # samp
-https://mohanendrasidda.github.io/samp/
+ https://mohanendrasidda.github.io/samp/
